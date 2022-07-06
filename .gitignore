@@ -1,0 +1,22 @@
+# os
+.DS_Store
+
+# ignore node dependency directories & lock
+node_modules
+.yarn
+yarn.lock
+package-lock.json
+
+# ignore ide settings
+.idea
+
+# optional eslint cache
+.eslintcache
+
+# compiler
+**/cjs
+**/esm
+**/types
+*.log
+logs
+dist

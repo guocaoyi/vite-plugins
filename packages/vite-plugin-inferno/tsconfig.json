@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "outDir": "esm/"
+  },
+  "files": ["./src/index.ts", "./src/devtools.ts"]
+}

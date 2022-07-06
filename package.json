@@ -1,0 +1,22 @@
+{
+  "name": "vite-inferno",
+  "private": true,
+  "description": "inferno preset for the vite bundler",
+  "author": "yalda",
+  "license": "MIT",
+  "keywords": [
+    "vite",
+    "vite-preset",
+    "vite-plugin",
+    "vite-plugin-inferno",
+    "inferno",
+    "infernojs"
+  ],
+  "scripts": {
+    "fmt": "prettier --write '**/*.{vue,svelte,js,jsx,mjs,ts,tsx,json,css,md}'"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "lint-staged": "^10.5.4"
+  }
+}
