@@ -1,14 +1,17 @@
 {
   "name": "vite-inferno-ts-starter",
   "version": "0.0.0",
-  "description": "",
+  "description": "Vite + Inferno + TS",
   "author": "yalda",
   "license": "MIT",
   "type": "module",
   "keywords": [
     "vite",
     "inferno",
-    "vite-boilerplate"
+    "vite-boilerplate",
+    "vite-starter",
+    "vite-template",
+    "inferno-boilerplate"
   ],
   "scripts": {
     "dev": "vite",
@@ -19,7 +22,7 @@
     "inferno": "^8.0.1"
   },
   "devDependencies": {
-    "vite-plugin-inferno": "0.0.1",
+    "vite-plugin-inferno": "0.0.0",
     "typescript": "^4.6.4",
     "vite": "^2.9.13"
   }

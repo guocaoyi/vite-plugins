@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-inferno",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "inferno preset for the vite bundler",
   "author": "yalda",
   "license": "MIT",
@@ -8,6 +8,7 @@
     "vite",
     "vite-preset",
     "vite-plugin",
+    "vite-plugin-inferno",
     "inferno"
   ],
   "main": "./cjs/index.js",
@@ -25,6 +26,14 @@
     "esm",
     "types"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guocaoyi/vite-plugin-inferno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guocaoyi/vite-plugin-inferno/issues"
+  },
+  "homepage": "https://github.com/guocaoyi/vite-plugin-inferno",
   "scripts": {
     "build": "rimraf cjs esm types && tsc && tsc -p tsconfig.cjs.json && node scripts/build.mjs",
     "prepublishOnly": "npm run build"

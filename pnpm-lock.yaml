@@ -10,23 +10,23 @@ importers:
       lint-staged: 10.5.4
       prettier: 2.7.1
 
-  packages/inferno-vite-js:
+  packages/vite-inferno-js:
     specifiers:
       inferno: ^8.0.1
       vite: ^2.9.13
-      vite-plugin-inferno: 0.0.1
+      vite-plugin-inferno: 0.0.0
     dependencies:
       inferno: 8.0.1
     devDependencies:
       vite: 2.9.13
       vite-plugin-inferno: link:../vite-plugin-inferno
 
-  packages/inferno-vite-ts:
+  packages/vite-inferno-ts:
     specifiers:
       inferno: ^8.0.1
       typescript: ^4.6.4
       vite: ^2.9.13
-      vite-plugin-inferno: 0.0.1
+      vite-plugin-inferno: 0.0.0
     dependencies:
       inferno: 8.0.1
     devDependencies:

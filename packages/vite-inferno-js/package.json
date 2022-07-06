@@ -1,14 +1,18 @@
 {
   "name": "vite-inferno-js-starter",
   "version": "0.0.0",
-  "description": "",
+  "description": "Vite + Inferno + JS",
   "author": "yalda",
   "license": "MIT",
   "type": "module",
   "keywords": [
     "vite",
     "inferno",
-    "vite-boilerplate"
+    "infernojs",
+    "vite-boilerplate",
+    "vite-starter",
+    "vite-template",
+    "inferno-boilerplate"
   ],
   "scripts": {
     "dev": "vite",
@@ -19,7 +23,7 @@
     "inferno": "^8.0.1"
   },
   "devDependencies": {
-    "vite-plugin-inferno": "0.0.1",
+    "vite-plugin-inferno": "0.0.0",
     "vite": "^2.9.13"
   }
 }
