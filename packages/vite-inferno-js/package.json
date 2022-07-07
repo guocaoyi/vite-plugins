@@ -1,6 +1,6 @@
 {
   "name": "vite-inferno-js-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Vite + Inferno + JS",
   "author": "yalda",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "inferno": "^8.0.1"
   },
   "devDependencies": {
-    "vite-plugin-inferno": "0.0.0",
+    "vite-plugin-inferno": "0.0.1",
     "vite": "^2.9.13"
   }
 }
