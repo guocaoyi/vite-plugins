@@ -1,5 +1,5 @@
 {
-  "name": "vite-inferno",
+  "name": "vite-plgins",
   "private": true,
   "description": "inferno preset for the vite bundler",
   "author": "yalda",
@@ -7,8 +7,7 @@
   "keywords": [
     "vite",
     "vite-preset",
-    "vite-plugin",
-    "vite-plugin-inferno",
+    "vite-plugins",
     "inferno",
     "infernojs"
   ],
