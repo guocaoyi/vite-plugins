@@ -51,7 +51,7 @@
   "peerDependencies": {
     "@babel/core": "7.x",
     "@babel/parser": "7.x",
-    "vite": "2.x || 3.x"
+    "vite": "2.x || 3.x || 4.x"
   },
   "devDependencies": {
     "@types/babel__core": "^7.1.14",
